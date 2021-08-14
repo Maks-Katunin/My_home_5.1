@@ -1,7 +1,4 @@
-package com.company;
-
-import java.sql.Array;
-import java.util.Arrays;
+package kg.geektech.hw5;
 
 public class Main {
 

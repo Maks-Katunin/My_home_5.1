@@ -1,4 +1,4 @@
-package com.company;
+package kg.geektech.hw5;
 
 public class Boss {
     private int BossHealth;
