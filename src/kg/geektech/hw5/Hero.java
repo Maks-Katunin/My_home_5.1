@@ -5,11 +5,11 @@ public class Hero {
     private int heroDamage;
     private String heroDefence;
 
-    public Hero(int heroHelth, int heroDamage, String heroDefence) {
+    public Hero(int heroHealth, int heroDamage, String heroDefence) {
     }
 
 
-    public Hero(int heroHelth, int heroDamage) {
+    public Hero(int heroHealth, int heroDamage) {
 
     }
 

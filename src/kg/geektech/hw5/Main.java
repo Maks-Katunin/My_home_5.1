@@ -10,11 +10,12 @@ public class Main {
         boss.setBossDefence("magic");
 
         System.out.println("Boss health: (" + boss.getBossHealth() + ")" +
+
                 " Boss damage: [" + boss.getBossDamage() + "] " +
+
                 "Boss defence is " + boss.getBossDefence() + ".");
+
     }
-
-
 
 }
 

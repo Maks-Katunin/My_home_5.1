@@ -14,6 +14,7 @@ public class Boss {
     }
 
     public int getBossDamage() {
+
         return BossDamage;
     }
 
