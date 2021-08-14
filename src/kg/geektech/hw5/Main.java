@@ -13,5 +13,8 @@ public class Main {
                 " Boss damage: [" + boss.getBossDamage() + "] " +
                 "Boss defence is " + boss.getBossDefence() + ".");
     }
+
+
+
 }
 
